@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My eBook</string>
+    <string name="action_settings">Settings</string>
+	<string name="lblTitle">Select Language </string>
+	<string name="mlable" > भाषा निवडा </string>
+	<string name="lnlMar" > English </string>
+	<string name="lblENg" >मराठी </string>
+	
+	<string name="lblCmdStad1">First Standard</string>
+	<string name="lblCmdStad2">Second Standard</string>
+	<string name="cmdTakeNoteEngChp1">Take Note</string>
+	
+	<string name="lblMCmdStad1">इयत्ता १ ली</string>
+	<string name="lblMCmdStad2">इयत्ता २ री</string>
+	<string name="video_1">Video 1</string>
+	<string-array name="lst_mar">
+	    <item >१ ली</item>
+	    <item >२ री</item>
+	    <item >३ री</item>
+	    <item >४ थी</item>
+	    <item >५ वी</item>
+	</string-array>
+	<string-array name="lst_Eng">
+	    <item >1 st</item>
+	    <item >2 nd</item>
+	    <item >3 rd</item>
+	    <item >4 th</item>
+	    <item >5 th</item>
+	</string-array>
+	<string-array name="lst_mar"></string-array>
+	
+</resources>

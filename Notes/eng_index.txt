@@ -1,0 +1,507 @@
+﻿Homi Bhabha Curriculum for Primary Science
+First Edition
+Homi Bhabha Centre for Science Education
+Tata Institute of Fundamental Research, V. N. Purav Marg, Mankhurd, Mumbai 400 088.
+T e a c h e r ' s
+Book
+Class I & II
+􀁺􀁺􀁺􀁺􀁺 􀁺􀁺􀁺􀁺􀁺 􀁺􀁺􀁺􀁺􀁺 􀁺􀁺􀁺􀁺􀁺 􀁺􀁺􀁺􀁺􀁺
+Jayashree Ramadas
+Aisha Kawalkar
+Sindhu Mathai
+science
+s m a l l
+Small Science
+Teacher's Book
+Class I & II
+Pilot Edition, 2004
+First Edition, 2011
+authors
+Jayashree Ramadas
+Aisha Kawalkar
+Sindhu Mathai
+primary science co-ordinator
+Jayashree Ramadas
+layout and illustrations
+Archana Shinde
+published by
+Homi Bhabha Centre for Science Education
+Tata Institute of Fundamental Research
+V. N. Purav Marg, Mankhurd
+Mumbai 400 088
+© Homi Bhabha Centre for Science Education, 2004, 2011.
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in any form or by any means,
+electronic, mechanical, photocopying, recording, or otherwise without the prior permission of the publisher.
+This book is sold subject to the condition that it shall not by way of trade be lent, re-sold, hired out or otherwise disposed off
+without the publisher's consent in any form of binding or cover other than that in which it is published.
+research assistance
+Pranita Gopal
+general co-ordinator
+Arvind Kumar
+cover design
+Madhugandha Damle
+printed by
+Merwin Art Printers
+B-44, Chandulal Apartments
+Golden Field Compound
+Sion-Bandra Link Road
+Kalakilla, Sion
+Mumbai - 400017
+General preface
+Not a day passes in our country when somebody somewhere has not criticized our
+system of education, particularly our school education. A great many ills and inadequacies
+of the system probably flow from extraneous causes and need socio-political initiatives that go
+beyond mere reforms in school curriculum. But some problems do arise directly from the
+curriculum - text books, teaching and evaluation practices. There is then a need to keep these
+problems in view and continually try to devise new curricula to overcome them.
+Efforts in curricular reforms and innovations are not new to our country. Nearly every
+decade or so, there have been initiatives at the Central and State levels to effect changes in curricula.
+Several independent school networks and voluntary groups have brought out their own textbooks
+and related materials. There is no doubt that significant progress has been made by the country in
+increasingly better conceptualization of the school curriculum at primary, middle and secondary
+levels. The paradigms of school curriculum in India have steadily evolved and become more
+relevant and modern. Unfortunately, the over-all deterioration of the system due to extraneous
+factors has tended to obscure these gains. Also, and most important for our purpose here, there is
+a large gap between the generally agreed objectives of the curriculum and their actual translation
+into textbooks and teaching practices.
+Homi Bhabha Curriculum is basically an attempt to close this gap as much as possible. It is
+not conceived to be a revolutionary curriculum. The broad aims of the curriculum are much the
+same as those articulated in countless reports and articles of different education departments and
+agencies. The idea is not to produce a fanciful, ‘museum-piece’ curriculum that nobody would
+adopt, but to attempt to discover a sound and wholesome curriculum that is practical to implement
+in our school system. ‘Practical’ is, however, not to be regarded as a euphemism for the status quo.
+As the users will find out, the alternative textbooks of the Homi Bhabha Curriculum are full of
+radical unconventional ideas that we believe are both urgent, necessary and, given enough
+efforts, feasible. But rather than describe here what we believe to be these innovative aspects, we
+leave the users, students and teachers, to find and experience them. In the simplest and most
+favourable situations, devising a curriculum and translating it into books, laboratories and teacher
+manuals is a daunting task. In the complex parameters and constraints that govern our country’s
+educational system, the task is formidable. Only time will tell if and to what extent the Homi
+Bhabha Curriculum is an effort in the right direction.
+Arvind Kumar
+iii
+Preface to Small Science: Class I & ii
+The series of students' and teachers' books of the Homi Bhabha Curriculum for primary science
+is the outcome of more than two decades of research and field experience at the Homi Bhabha
+Centre for Science Education (HBCSE). During these years , several projects have been undertaken
+to study problems related to pedagogy, communication in the classroom, students' conceptions,
+text and picture comprehension and cross-cultural issues in science learning. All the members of
+HBCSE therefore, past and present, have in some way contributed to this curriculum.
+The curriculum is built out of simple, thematically organised, activities and exercises. Small
+Science Class 1 & 2 deals with the broad area of environmental studies. This Teacher's Book
+illustrates a few of the almost unlimited learning opportunities offered by our immediate
+environment. In these first two classes we should remain unconstrained by a definite set of topics;
+the idea is to simply open up possibilities for learning in everyday contexts.
+The aim of this curriculum is to engage students and teachers together in a joyful and
+meaningful learning experience. We hope that this book succeeds in doing so in your class. Please
+do share your experiences with us. Your ideas and suggestions for improvement are welcome, via
+e-mail or through the feedback form provided at the end of the book.
+Jayashree Ramadas
+jr@hbcse.tifr.res.in
+Aisha Kawalkar
+aisha@hbcse.tifr.res.in
+Sindhu Mathai
+sindhu@hbcse.tifr.res.in
+iv
+Acknowledgements
+Our heartfelt thanks to all those who contributed to the book:
+Arvind Kumar initiated the Homi Bhabha Curriculum and gave constant encouragement.
+Pranita Gopal, along with Manasi Sapre and Fouzia Dohadwala, carried out classroom trials during
+the early stages and contributed many ideas.
+Archana Shinde not only did the illustrations and layout but also helped in classroom trials and
+gave useful inputs. Archana would like to thank Eleanor Watts for inspiration through her simple
+and elegant stick figures in The Blackboard Book.
+The principals and teachers of the Children's Aid Society and the Atomic Energy Central Schools 1
+and 3 willingly accomodated us. Their students enthusiastically participated in the classroom
+trials and contributed some ingenious drawings.
+Nilesh Nimkar and the teachers of Gram Mangal, Aine in Maharashtra, shared their insights about
+working with young children.
+Chitra Natarajan read the drafts carefully and provided incisive feedback. Geeta Chadha and
+Sugra Chunawala gave valuable comments. All the HBCSE staff members, especially Ritesh
+Khunyakari and V. N. Purohit, were very helpful, gladly responding to our innumerable queries.
+Jayashree Ramadas
+Aisha Kawalkar
+Sindhu Mathai
+v
+CONTENTS
+General Preface iii
+Preface to Class I & II iv
+Acknowledgements v
+Introduction 1
+How to use this book 4
+UNIT 1
+Me and My Family
+Topic 1 My family 12
+Topic 2 My body 16
+Topic 3 Knowing what is around me 19
+UNIT 2
+Plants and Animals
+Topic 4 So many different plants! 22
+Topic 5 Parts of plants 27
+Topic 6 Animals around us 37
+UNIT 3
+Food
+Topic 7 Foodgrains 46
+Topic 8 Vegetables 50
+Topic 9 Fruits 52
+Topic 10 Food from animals 55
+UNIT 4
+People and Places
+Topic 11 Our school 60
+Topic 12 Market 63
+Topic 13 Letters, postman, post-office 66
+Topic 14 Buses and bus stops 69
+Topic 15 Trains and train stations 72
+Topic 16 People at work 75
+UNIT 5
+Time
+Topic 17 Day and night 78
+Topic 18 Calendar 80
+Topic 19 Festivals 86
+UNIT 6
+Things Around Us
+Topic 20 Our classroom 96
+Topic 21 Shapes and sizes 98
+Topic 22 Going on a ride 105
+Games 109
+Further Reading 114
+Outline of the Homi Bhabha Curriculum (Primary science) 117
+Feedback Form 119
+
+INTRODUCTION
+The Homi Bhabha Curriculum
+Children are by nature curious and observant. They learn about
+the world by watching, asking questions, and trying to make
+sense of what they experience. The Homi Bhabha Curriculum for
+primary science aims to encourage these natural tendencies of
+students, while at the same time developing in them the basic
+skills of learning.
+The first few years of schooling are critical in shaping the child’s
+attitude towards learning. Will the child see school learning as
+passive absorption of uninteresting information, or as a
+continuing adventure, a quest to understand the world around?
+These early experiences will decide.
+Teacher’s Book for Class 1 and 2
+The Small Science TextBooks, WorkBooks and Teacher’s Books for Classes 3, 4 and 5 suggest a core
+science curriculum for these years. The purpose of this Teacher’s Book for Class 1 and 2 is somewhat
+different. Firstly, this book goes beyond science into the domain of environmental studies or EVS.
+The Unit titles, “Me and My Family”, “Plants and Animals”, “Food”, “People and Places”, “Time”
+and “Things Around Us”, denote areas of an EVS curriculum.
+Although the Unit structure of this book broadly outlines a curriculum, the topics in it are not
+rigidly prescribed. Within the areas suggested by the Unit titles, only a few indicative topics are
+dealt with in this book. A particular topic or its suggested treatment might or might not be relevant
+for your students. For example, “crows” may be part of life in an urban area while “snakes” may
+be important in a rural area. The specific topics for your class should be selected from your
+immediate environment. Questions and activities on these topics may be prepared by you based
+upon your knowledge of your students.
+Why only a Teacher’s Book?
+A question which is often asked of us is, when Classes 3, 4 and 5 of the Homi Bhabha Science
+Curriculum have a complete set of TextBooks, WorkBooks and Teacher’s Books, why do you have
+only a Teacher’s Book for Class 1 and 2?
+First of all it is useful to recall that this scheme is consistent with the current policy of the NCERT
+and the State departments of education. Strong support to the. teacher has been the mainstay of
+the Homi Bhabha Curriculum too, so a Teacher’s Book needs no justification.
+Yet the question of a TextBook and WorkBook for EVS continues to be raised.
+2
+A striking observation about students in Class 1 and 2 is that their cognitive and social development,
+as also their spoken language, is considerably in advance of their literacy and numeracy skills.
+The risk, in relying on rudimentary reading and writing skills to teach EVS, is that we may end up
+“dumbing down” the content.
+One way out of this problem may be to supplement or replace text with pictures. But observation
+of pictures cannot substitute for observation of the environment. Further, it is difficult to design a
+textbook or workbook which communicates through appropriate pictures, yet remains relevant
+in all environments. Much better that the teacher designs worksheets locally suited to the class.
+Workbooks are definitely useful for reading, writing and mathematics but, we feel, to beginning
+EVS learning they remain peripheral.
+This is then a resource book, meant to give teachers an idea of the kinds of discussions and activities
+that students at this age can carry out meaningfully. Students have considerable capacity for
+learning through close observation and analysis, the only pre-condition being that the observations
+are carried out in contexts that are familiar to them. You as teacher play a crucial role in directing
+and facilitating this learning.
+EVS and basic skills
+Students of Class 1 and 2 are taking their first steps in literacy and numeracy. In many cases they
+are also coping with a new language, or a medium of instruction which is different from their
+mother tongue. This difficulty exists to some extent even in the vernacular medium where the
+informal language spoken at home may be significantly different from the formal language of
+school.
+In this situation one cannot depend critically on reading and writing for the learning of other
+areas like EVS. On the other hand, EVS affords a rich context to develop and support skills of
+reading, writing, counting and geometry during the primary years. The various topics in Unit 4,
+and in Unit 5, the topic of “Calendar”, suggest how guess-reading can be practiced by students to
+achieve functional literacy and numeracy. In Unit 6, the topics “Our classroom” and “Shapes and
+sizes” introduce various mathematical concepts through everyday situations. This skill
+development in language and mathematics continues through Classes 3, 4 and 5 of Small Science.
+Students entering school have come a long way in the development of their overall cognitive
+capabilities. If they have grown up in a reasonably unrestricted environment, they would have
+mastered a variety of perceptual, motor and analytical skills already. These skills should now be
+supported and further developed through the EVS curriculum, through carefully designed
+activities, questions and cues for observations.
+These early years are important too for the development of social awareness and social skills.
+Topics like, “My Family”, “People at Work” and “Festivals” focus specifically on social awareness.
+The overall approach continually encourages meaningful social interaction in and outside the
+classroom.
+3
+Learning through the environment
+Children can surprise us with their perceptive observations.
+Yet, in the early years of school we adults systematically
+underestimate their capabilities. The school curriculum forces
+them to attend selectively to a few simple, almost trivial, facts
+and generalisations - a situation that is particularly prevalent
+when learning happens in a language different from the
+mother tongue.
+It is easy to break out of this naive, bookish approach by
+taking advantage of the possibilities afforded by our everyday
+experiences. The environment is rich in opportunities for learning. To begin with, we have to
+convey to students that their own observations, ideas and activities are important and valued in
+the classroom. Then we provide a structure in which these ideas can be expressed, analysed and
+evaluated by the students themselves. The rest will follow.
+Assessment
+The aims of this curriculum, as elaborated in later books of Small Science, prominently include
+observation of the environment, design and engineering, language development, quantitative
+thinking and social sensitivity. In Class 1 and 2 we develop preparatory skills in these areas.
+Further we have added some parameters to assess all-round development relevant to EVS. For
+details, see pages 8-9.
+4
+Format of the book
+There are two types of text in this book. One is the “student text” which is given in the following
+kind of font:
+Activity 6.1: Observe these two animals. Notice the differences between them.
+Notice also the similarities.
+These are questions and instructions that you the teacher would be directing at the students. This
+“student text” is given in a different font type to differentiate it from the “teacher text” which
+carries explanations, suggestions or additional information, as below:
+This exercise will arouse students’ curiosity and initiate them into observing and thinking
+about animals. Choose any two familiar and somewhat similar animals for comparison, say
+a dog and a cow, a sparrow and a pigeon, or a bee and an ant. Wherever feasible this
+exercise should be done with the animals actually present in front of the children.
+For reasons of space, it has not always been possible to write the “student text” in conversational
+child-friendly language. You will need to simplify the questions and frame them in ways relevant
+to your students. For example:
+"We have something interesting here today. Look at the earthworm in this glass. Have
+you seen an earthworm before? ... etc. Now look at this little caterpillar. Don’t be
+afraid, they will not hurt you. And you should not try to hurt them either ... etc. Now
+tell me the differences you see between this caterpillar and this earthworm ... "
+If this sounds daunting, you might begin in a more traditional way, recalling some prior experiences:
+“How many of you have seen a dog? ... and how many of you have seen a donkey?
+... Now tell me what is different ... think of as many differences as you can ... etc."
+Before you start to use the book, skim through it to make sure you can identify the student text
+and the teacher text.
+Selection of topics
+This single book serves as Teacher’s Book for classes 1 and 2 of Small Science. The distribution
+of topics and questions between the two classes is left to your judgement. Remember that
+though some of the topics might be common to the two classes, their level of treatment would
+be different.
+HOW TO USE THIS BOOK
+5
+To plan the topics for the year, begin by reading this book thoroughly. Select a few topics and then
+go through their treatment suggested here, to mark out the parts suitable for your class. Generally
+the first few questions and activities in any section of a topic are suitable for Class 1. Topic 1 and
+the first part of Topic 20 are particularly recommended for the beginning of the school year. Maintain
+a record of which topics or parts of topics are done in the course of the year. Such a record kept in
+Class 1 will be most helpful to the teacher in Class 2.
+When it comes to discussion, children have short attention spans. Remember that anyone topic is
+not intended to be completed at a stretch. Break up the topics into small parts while teaching - this
+will also enable students to go back and observe and participate more effectively when that topic
+is continued later. You need not maintain the serial order of topics given in this book.
+Selection of questions
+Under each topic, the student text gives a number of questions while the teacher text may indicate
+a variety of possible answers for each question. The questions and pointers are meant to stimulate
+discussion, to encourage students to talk and to recall their real-life experiences on which further
+learning can be built. The questions encourage the habit of keen observation and enquiry. With
+practice students will be able to frame their own questions too.
+The questions aim to be fairly comprehensive. The teacher must decide, depending on the readiness
+and interests of the class and the relevance of the topic, how deeply to explore it. Rather than
+trying to exhaust all the questions on a particular topic, it may be better to go with the flow of the
+discussion. The difficulty level of questions and activities need to be adjusted to your class.
+Remember that each student is not expected to answer every question. Take care that the lesson is
+not reduced to a volley of questions on some topic to which students cannot relate.
+Language development
+Move towards a gradual adoption of English or whichever is your medium of instruction. Initially
+students may be better able to understand and to express themselves in the local language or in
+their mother tongue. They should be allowed to do this without interruption or excessive correction.
+Re-phrase questions in more than one way, so that all students have a chance to understand.
+Encourage the quietest students to participate in the discussions.
+As a general rule keep your sentences simple and avoid unnecessary use of difficult words. If
+however the context is familiar then new words will certainly empower students to describe their
+experiences effectively. In that case you may yourself first need to get familiar with the words (as
+for example, the names of trees, or the terms connected with trains). If students lack the relevant
+experiences then do not attempt to teach too many new words.
+Collect stories, action-songs and poems appropriate for various topics and occasions. The readings
+suggested on pages 114 to 116 will be helpful.
+6
+Develop and support literacy by providing plenty of opportunities for reading. Begin with activities
+like matching words on identical labels (Activity 2.3), then go on to writing one-word responses
+on the blackboard and having students read them out (as on page 52), matching pictures with
+words (Blackboard work on page 23), and then choosing from a few words from the blackboard to
+write labels for their drawings (Activity 1.3).
+Activities
+After short spells of discussion, involve the students in activities. Plan the activities in advance -
+what materials have to be brought and whether they have to be conducted indoors or outdoors,
+with the whole class, in small groups, in pairs, or individually. If possible ask colleagues or parents
+to help out in the classroom. It is a good idea to designate one or two students as “helpers for the
+day”. These students could distribute materials or help in other organisation. Other suggestions
+in Small Science Class 4 Teacher’s Book pages 7-9 may be helpful.
+Drawing :
+Drawing a picture and colouring it enlivens the topic and helps students express their ideas. It
+also helps develop design and draftsmanship. Encourage students to draw independently and,
+rather than copying standard pictures, come out with their own novel ideas. Let the students talk
+about what they have drawn. Initially you may need to encourage them with questions, but later
+you will find them more forthcoming with their descriptions. You will find that the students’
+imagination and creativity leap far ahead of their drawing skills!
+As you check each student’s work and listen to their explanations, write down next to their drawings
+some simple words, labeling what is there, or what is happening in the picture. Over time, this
+practice will inspire students to do the labeling themselves, thus promoting writing skills too.
+Students’ observation prior to doing the topic in the class will reflect in their drawings. So also
+drawings will encourage further observation of details they would not have noticed earlier. Good
+observation is thus not only a prerequisite for good drawing but it gets keener after it. For instance,
+students often draw a typical five-petalled flower shape, not giving much thought to which plant
+it represents. After spending time observing different types of plants (trees, shrubs, climbers, as
+also flowers, leaves and fruits of different types) students will get a broader sense of plant life and
+be able to make more connections with the plant life around them. You will discover this in their
+drawings!
+Do show in class pictures or photographs from books, charts or magazines. These would illustrate
+a variety and diversity not necessarily found in the immediate environment - as for example in
+butterflies, flowers, insects, birds, plants, occupations, vehicles, and so many other topics. You
+may freely use the drawings in this book for blackboard illustrations.
+7
+Model-making :
+Many of the model-making activities have been left to your interpretation. They may be made as
+simple or as elaborate as you and the students wish. A quick improvisation, for example, pretending
+that an empty box is a bus, is always possible. On the other hand a planned exercise of making a
+model bus will develop in students several important skills and abilities including, designing,
+geometrical drawing and counting.
+Making simple origami models is good for developing fine-motor and geometrical skills. Due to
+space constraints only a few descriptions for making origami models are given here. Please refer
+further to books on simple origami, like the ones listed on page 114.
+Acting-out :
+The acting-out exercises too could be done at many levels. Judge the capability of the students.
+Better observation will lead to richer acting and vice versa. At times the class may together dramatise
+a story or a scene from a story told in the class. Keep in the school a small collection of props and
+accessories useful for acting scenes.
+Counting :
+In Class 1 and 2 students are expected to learn to count till 100. Supportive activities for developing
+the concept of number could be taken up during discussion on any topic, for example:
+“How many students are here who walk from home to school - raise your hands ... and count the
+hands”. Counting of objects should be done wherever possible.
+Incorporate in your teaching, rhymes and songs like, “One, two, three-four-five, once I caught a
+fish alive ... “ or, in Hindi, “Dus mote haathi jhoom ke chale ... “. Completing pictures by joining
+numbered dots would be fun as well.
+Field visits :
+Field visits to different places like a garden, a market, a nearby bus-stop or post-office, to meet
+people in various occupations, are invaluable in learning these topics. Planned walks serve well
+as a starter or follow-up for topics like smells, sounds, colours, shapes, observing plants, as also
+animals including birds and insects. Try to find out beforehand what interesting things can be
+seen, or decide which plants or flowers etc. are to be shown. Do stop to look what arrests children’s
+attention. Pick up various small things fallen on the ground like, twigs, stones of interesting shapes
+and colours, seeds, pods, etc.. If possible at the site, or on returning, let the students draw and talk
+about what they saw, learnt and collected.
+You will need another teacher or a helper to accompany you during these outings. Before going
+out of the classroom, give students simple, clear instructions for what to observe, or give them
+say two questions to which they have to find answers. Most importantly, lay down firm rules
+for behaviour: the success of a field trip is enhanced by its orderly conduct.
+8
+Display of student’s work :
+To show that their work is appreciated, arrange displays of students’ drawings, models and other
+things they make, or bring from home for activities (for example, cereals and pulses). Regularly
+changing displays make the classroom look interesting and alive. Over the year try to exhibit the
+work of all the students, and select across the range of abilities, ensuring that those missed out this
+time get noticed the next time.
+Prepare with the help of students, charts with specimen, pictures and words related to topics
+being done in the class.
+Discovery corner :
+Choose a space in the classroom to keep novel objects of all kinds, not necessarily related to any
+particular topic. Encourage students to bring in interesting things to exhibit here. This display
+could change daily. The objects might be pebbles, feathers, bones, shells, seeds, simple mechanical
+gizmos, broken or other throw-away things ... Take care to avoid sharp edges and heavy objects.
+Let students examine the things, handle them and talk about them before or after the class.
+Odds and ends :
+Store old discarded things in a cardboard box or a cloth bag in the classroom. Collect in it empty
+bottles, bottle tops, cardboard boxes, pieces of wood, threads or cords, different cloth materials,
+old baskets, bags and so on. These objects will come in useful in counting, sorting, model-making
+and other exercises. Also they may serve as props for acting-out scenes.
+Method of assessment
+Classes 3, 4 and 5 of Small Science have a continuous assessment system built into the WorkBooks.
+In Class 1 and 2 we recommend a similar continuous assessment of every student’s contribution
+in the classroom. The assessment at this level should be informal, based on the students’
+participation in discussions and activities. In addition, their regular drawing and writing in their
+notebooks might be taken into consideration.
+This type of assessment will inform you about the students’ progress and potential. More
+importantly, it will provide you with feedback to decide what to teach and how to teach it. The
+assessment sheets of the students in Class 1 will be especially helpful to the teacher of Class2.
+A model assessment sheet is given on page 10. In the Table on page 9 we list the same categories
+along with a few examples of activities which involve these skills.
+9
+Some examples of activities related to assessment categories:
+You will notice that the activities often involve a combination of skills. As an example, Activity 1.2
+could be used to assess not only drawing but also observation and writing. During any classroom
+discussion, many different skills will be expressed, certainly not just recollection and narration
+but also observation, reading, counting, independent thinking and social awareness.
+Please maintain an assessment sheet for each student and note down in it remarks about the
+student’s performance in the different categories. The assessment could be carried out after one
+Unit has been completed, or even after a combination of a few Units or some parts of them are
+done. It might perhaps more conveniently be done at regular intervals during the year, coinciding
+with the examination schedule in your school. But remember to be relaxed and informal, do not
+treat it as an examination!
+Categories Some Examples of Activities
+1. Participation in discussions
+2. Recollection and narration 9.5, 11.2, 5.18, 19.1
+3. Observation 4.2, 5.9, 6.18, 14.3, 17.4
+4. Sensory skills 3.1, 5.11, 7.1, 9.1
+5. Reading Blackboard activities, 4.5
+6. Writing 5.6, 10.7, 13.3, 18.5
+7. Sorting 6.7, 20.4
+8. Counting 10.4, 11.6, 18.2, 20.2
+9. Geometry 21.10, 21.11
+10. Estimation 10.5, 21.3, 21.6, 21.18
+11. Drawing 1.2, 4.6, 6.13, 11.1, 18.5, 2.1
+12. Model-making 6.6, 6.10, 7.7, 14.1
+13. Acting-out 1.4, 4.5, 15.6, 17.1, 20.8
+14. Social awareness
+15. Independent thinking and creativity
+16. Co-operation with other students
+17. Enthusiasm in doing activities
+18. Completion of home assignments
+10
+Participation in discussions............................
+............................................................................
+Observation ......................................................
+............................................................................
+Reading .............................................................
+............................................................................
+Sorting ...............................................................
+............................................................................
+Geometry ..........................................................
+............................................................................
+Drawing ............................................................
+............................................................................
+Acting-out .........................................................
+............................................................................
+Independent thinking and creativity ............
+............................................................................
+Patience and concentration ............................
+............................................................................
+Enthusiasm in doing activities .......................
+............................................................................
+Recollection and narration ...............................
+..............................................................................
+Sensory skills ......................................................
+..............................................................................
+Writing ................................................................
+..............................................................................
+Counting .............................................................
+..............................................................................
+Estimation ...........................................................
+..............................................................................
+Model-making ....................................................
+..............................................................................
+Social awareness ................................................
+..............................................................................
+Working methodically ......................................
+..............................................................................
+Co-operation with other students ...................
+..............................................................................
+Completion of home assignments ...................
+..............................................................................
+Other remarks .............................................................................................................................................
+Assessment Sheet
+Name ................................................................. Assessment period ............................................
